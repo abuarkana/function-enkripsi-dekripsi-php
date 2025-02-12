@@ -128,8 +128,8 @@
         }
 
         // Contoh penggunaan
-        $password = 'Dany1234ABCD'; // Password untuk kunci enkripsi
-        $id = 'BR-001'; // ID yang ingin dienkripsi
+        $password = 'Your_Key'; // Password untuk kunci enkripsi
+        $id = 'ABC123'; // ID yang ingin dienkripsi
 
         // Enkripsi ID
         $encrypted_id = encrypt($id, $password);
