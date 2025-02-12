@@ -30,7 +30,7 @@ Dilengkapi dengan tampilan berbasis **HTML & CSS** agar mudah digunakan.
 
 ## 📥 Instalasi
 
-1️⃣ **Clone Repository**  
+**Clone Repository**  
 ```bash
 git clone https://github.com/abuarkana/function-enkripsi-dekripsi-php.git
 
